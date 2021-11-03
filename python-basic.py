@@ -50,3 +50,34 @@ print("1"+"2")
 #you can also multiply string by an integer
 print("he"*3)
 print(2*'7')
+
+output:
+hello world
+4
+0
+3
+4
+2
+1.0
+0.75
+8
+512
+2.0
+4
+1
+0.25
+python for everybody!!
+jon's mother:he's not an angel.he's very naughty boy!
+red
+green
+yellow
+red     blue    yellow
+red blue yellow
+ hello world
+          this is a
+          multi line text
+github
+12
+hehehe
+77          
+
